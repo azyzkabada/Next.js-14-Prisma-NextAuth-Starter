@@ -61,7 +61,7 @@ EMAIL_FROM="John Doe <johndoe@example.com>"
 1. **Clonez le dépôt :**
 
     ```bash
-    git clone https://github.com/azyzkabada/next-auth-nodemailer.git
+    [git clone https://github.com/azyzkabada/Next.js-14-Prisma-NextAuth-Starter.git]
     ```
 
 2. **Installez les dépendances :**
